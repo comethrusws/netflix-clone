@@ -1,19 +1,16 @@
 # Netflix Clone 🎥🍿
 
 🚀 this is a simple netflix clone (tv version) i made using VUE.js, Vite, Tailwind CSS and pinia. 🎬🌟
+![App Screenshot](DEMO/app.png)
 
 ## Overview 🌐
 
 This project is a replica of Netflix's user interface, showcasing the use of modern frontend technologies like VUE.js to recreate the famous streaming platform's look and feel.
 
-### 🖼️ Screenshots
-
-![App Screenshot](DEMO/app.png)
-![Full Browser Screenshot](DEMO/full.png)
-
 ### 📽️ Demo Video
 
-[Watch Demo Video](DEMO/video-demo.mp4)
+[![Demo Video](https://img.youtube.com/vi/97SdQVQ34-0?si=cZM8O_ncKTQNOQuF/0.jpg)](https://www.youtube.com/watch?v=97SdQVQ34-0&feature=youtu.be)
+
 
 ## Features 🛠️
 
